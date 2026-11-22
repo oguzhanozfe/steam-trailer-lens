@@ -2,6 +2,8 @@
 
 Measure how soon a store trailer shows gameplay and preview a six-slice microtrailer plan.
 
+**[Open the live demo](https://oguzhanozfe.github.io/steam-trailer-lens/)** · [Browser features and setup](demo/DEMO.md)
+
 ![Steam Trailer Lens showing the included example in the browser](docs/preview.png)
 
 [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/steam-trailer-lens) · [Example input](example.json) · [Computed report](docs/example-report.json) · [Model settings](#connect-a-model)

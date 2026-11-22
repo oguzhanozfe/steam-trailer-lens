@@ -1,0 +1,14 @@
+{
+  "model": "gemma-4-e4b-it",
+  "text": "Row 4 · Given that row 4 shows 'Align two orbits during the storm' starting at 20.5s, should this gameplay slice be prioritized in the suggested preview edit?",
+  "row": 4,
+  "record": {
+    "Slice": 4,
+    "Start (s)": 20.5,
+    "Length (s)": 1,
+    "Content": "gameplay",
+    "Shot": "Align two orbits during the storm"
+  },
+  "source_sha256": "8bb308e6b795ca67b484bfb4be38b7f38f4f9f87466edf4a5ee179f480cd29d0",
+  "report_sha256": "0b5c8a6b3070a9e4be4f62e8aa87216c4f9ce39eae79bc0be0bb9b133a3b9343"
+}
