@@ -1,0 +1,47 @@
+{
+  "duration_seconds": 36,
+  "shots": [
+    {
+      "start": 0,
+      "end": 3,
+      "type": "logo",
+      "description": "Publisher title on black"
+    },
+    {
+      "start": 3,
+      "end": 7,
+      "type": "cinematic",
+      "description": "Snow settles on the observatory"
+    },
+    {
+      "start": 7,
+      "end": 13,
+      "type": "gameplay",
+      "description": "Player rotates the first telescope"
+    },
+    {
+      "start": 13,
+      "end": 18,
+      "type": "title",
+      "description": "Three planets. One signal."
+    },
+    {
+      "start": 18,
+      "end": 28,
+      "type": "gameplay",
+      "description": "Align two orbits during the storm"
+    },
+    {
+      "start": 28,
+      "end": 33,
+      "type": "gameplay",
+      "description": "Player catches the final transmission"
+    },
+    {
+      "start": 33,
+      "end": 36,
+      "type": "title",
+      "description": "Title and release window"
+    }
+  ]
+}
